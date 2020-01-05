@@ -22,5 +22,5 @@ Download Link : https://getcomposer.org/
 After Installing Composer You Can Using Composer for Download Laravel 5.8
 Documentation : https://laravel.com/docs/5.8/installation
 ```
-https://laravel.com/docs/5.8/installation
+composer create-project --prefer-dist laravel/laravel blog "5.8.*"
 ```
